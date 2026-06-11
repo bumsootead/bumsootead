@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm BumSoo Jeong from South Korea</h1>
 <h3 align="center">I'm a current Sophomore at the Univeristy of Wisconsin- Madison studying Data Science and Economics</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bumsootead" alt="bumsootead" /></a> </p>
-
 - I’m currently working on **StrikeVision**
 
 - How to reach me **bumsootead@gmail.com**
