@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bumsootead" alt="bumsootead" /></a> </p>
 
-- 🔭 I’m currently working on **StrikeVision**
+- I’m currently working on **StrikeVision**
 
-- 📫 How to reach me **bumsootead@gmail.com**
+- How to reach me **bumsootead@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
